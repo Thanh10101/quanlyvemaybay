@@ -1,0 +1,54 @@
+C:\Users\g\Desktop\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.exe
+C:\Users\g\Desktop\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.deps.json
+C:\Users\g\Desktop\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.runtimeconfig.json
+C:\Users\g\Desktop\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.runtimeconfig.dev.json
+C:\Users\g\Desktop\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.dll
+C:\Users\g\Desktop\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.pdb
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.AssemblyReference.cache
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AddPassenger.resources
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.CancellationTbl.resources
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.FlightTbl.resources
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.login.resources
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.Properties.Resources.resources
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.Splash.resources
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.Ticket.resources
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.ViewFlights.resources
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.ViewPassenger.resources
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.GenerateResource.cache
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AssemblyInfoInputs.cache
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AssemblyInfo.cs
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.CoreCompileInputs.cache
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.dll
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.pdb
+C:\Users\g\Desktop\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.genruntimeconfig.cache
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.exe
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.deps.json
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.runtimeconfig.json
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.runtimeconfig.dev.json
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.dll
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\Airline.pdb
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.AssemblyReference.cache
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AddPassenger.resources
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.CancellationTbl.resources
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.FlightTbl.resources
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.login.resources
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.Properties.Resources.resources
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.Splash.resources
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.Ticket.resources
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.ViewFlights.resources
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.ViewPassenger.resources
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.GenerateResource.cache
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AssemblyInfoInputs.cache
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.AssemblyInfo.cs
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.csproj.CoreCompileInputs.cache
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.dll
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.pdb
+C:\Users\THANH\Downloads\window 2\window\Airline\Airline\obj\Debug\netcoreapp3.1\Airline.genruntimeconfig.cache
